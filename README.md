@@ -2,86 +2,101 @@
 
 # João Pedro Sales de Deus
 
-**Estudante de Engenharia de Software · PUC Minas**
+**Software Engineering Student · PUC Minas**
 
-![Belo Horizonte](https://img.shields.io/badge/Belo%20Horizonte-MG-555555?style=flat-square&logo=googlemaps&logoColor=white)
-![PUC Minas](https://img.shields.io/badge/PUC-Minas-003366?style=flat-square)
-![Curso](https://img.shields.io/badge/Engenharia%20de%20Software-1º%20semestre-2E7D32?style=flat-square)
+Fundamentos sólidos, código legível e projetos bem documentados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-560593415/)
+![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-PUC%20Minas-003366?style=flat-square)
+![Localização](https://img.shields.io/badge/Belo%20Horizonte-MG-555555?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## Sobre mim
+### `$ whoami`
 
-Sou estudante do **1º semestre de Engenharia de Software** na **Pontifícia Universidade Católica de Minas Gerais (PUC Minas)**, em Belo Horizonte, no turno da noite, e estou construindo minha base para atuar no mercado de desenvolvimento de software.
-
-Meu foco atual é dominar os fundamentos: algoritmos, estruturas de dados e programação orientada a objetos. Uso o GitHub para registrar essa evolução de forma organizada, com código versionado, documentado e fácil de reproduzir.
-
-- 🎓 Bacharelado em **Engenharia de Software** na PUC Minas, 1º semestre (noite)
-- 📘 Cursando atualmente a disciplina de **Introdução a Algoritmos**
-- 🐍 Linguagem principal no momento: **Python**
-- 🎯 Objetivo: atuar no desenvolvimento de software com qualidade, clareza e boas práticas
-- 📍 Belo Horizonte, MG, Brasil
-
----
-
-## Formação
-
-| Instituição | Curso | Situação |
-|-------------|-------|----------|
-| **PUC Minas** | Bacharelado em Engenharia de Software (noite) | 1º semestre · em andamento |
-
-**Disciplina em destaque no semestre:** Introdução a Algoritmos (listas, matrizes, dicionários, arquivos, recursividade, orientação a objetos e exceções em Python).
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.nome = "João Pedro Sales de Deus"
+        self.formacao = "Bacharelado em Engenharia de Software · PUC Minas"
+        self.periodo = "1º semestre · noite"
+        self.localizacao = "Belo Horizonte, MG, Brasil"
+        self.linguagem_principal = "Python"
+        self.foco_atual = ["Algoritmos", "Estruturas de dados", "Orientação a objetos"]
+        self.objetivo = "Construir software correto, legível e sustentável"
+```
 
 ---
 
-## Tecnologias e ferramentas
+### Sobre
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-</p>
+Sou estudante de **Engenharia de Software** na **PUC Minas** e trato a graduação como a fundação de uma carreira em desenvolvimento de software.
+
+Neste início de curso, meu foco está nos fundamentos que sustentam qualquer sistema: **análise de problemas, algoritmos, estruturas de dados e modelagem orientada a objetos**. Prefiro entender como uma solução funciona por dentro antes de recorrer a abstrações prontas, e registro esse processo no GitHub com o mesmo cuidado que um projeto real exige: estrutura previsível, convenções consistentes e documentação clara.
 
 ---
 
-## Projetos em destaque
+### Stack
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [**PUC-Minas**](https://github.com/joaopedrosalesdedeustech/PUC-Minas) | Material e soluções da disciplina de Introdução a Algoritmos: resumos teóricos, listas de exercícios e soluções organizadas por tópico. A lista de **Listas** está completa (10/10), com as restrições do enunciado respeitadas, como implementar algoritmos sem `sort()`, `sorted()` ou `min()`. | Python |
-
----
-
-## Trilha de estudos
-
-Conteúdos da disciplina, na ordem em que estão sendo estudados:
-
-| Tópico | Status |
-|--------|:------:|
-| Listas | ✅ Concluído |
-| Matrizes | ⏳ Próximo |
-| Dicionários | ⏳ Planejado |
-| Arquivos | ⏳ Planejado |
-| Recursividade | ⏳ Planejado |
-| Orientação a Objetos: Introdução | ⏳ Planejado |
-| Orientação a Objetos: Relacionamento | ⏳ Planejado |
-| Exceções | ⏳ Planejado |
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Linguagem** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Ambiente** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) |
 
 ---
 
-## Princípios que sigo nos meus projetos
+### Projetos
 
-- **Organização:** estrutura de pastas previsível e nomes padronizados.
-- **Documentação:** todo repositório tem um README explicando o que é, como está organizado e como executar.
-- **Versionamento:** todo o código versionado com Git, com o progresso registrado a cada entrega.
-- **Fundamentos primeiro:** entender o algoritmo antes de recorrer a funções prontas.
+#### [PUC-Minas · Introdução a Algoritmos](https://github.com/joaopedrosalesdedeustech/PUC-Minas)
+
+Repositório acadêmico com as soluções em Python da disciplina de Introdução a Algoritmos, organizado em oito módulos.
+
+- **Escopo:** listas, matrizes, dicionários, arquivos, recursividade, orientação a objetos e tratamento de exceções.
+- **Restrições de implementação:** algoritmos de ordenação, busca e seleção escritos do zero, sem `sort()`, `sorted()` ou `min()`, conforme os enunciados.
+- **Organização:** módulos numerados, separação entre material de referência e código, e nomenclatura padronizada em `snake_case` (`exNN_<descricao>.py`).
+- **Documentação:** README com índice, status por módulo, árvore do projeto, convenções e instruções de execução.
+- **Status:** módulo de Listas concluído (10/10); demais módulos em andamento.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square)
 
 ---
 
-## Contato
+### Roadmap técnico
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro%20Sales%20de%20Deus-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-560593415/)
-[![GitHub](https://img.shields.io/badge/GitHub-joaopedrosalesdedeustech-181717?style=flat-square&logo=github)](https://github.com/joaopedrosalesdedeustech)
+Progresso nos conteúdos da disciplina de Introdução a Algoritmos:
+
+```text
+[■■■■■■■■■■] Listas                         concluído
+[□□□□□□□□□□] Matrizes                       próximo
+[□□□□□□□□□□] Dicionários                    planejado
+[□□□□□□□□□□] Arquivos                       planejado
+[□□□□□□□□□□] Recursividade                  planejado
+[□□□□□□□□□□] Orientação a Objetos (intro)   planejado
+[□□□□□□□□□□] Orientação a Objetos (relac.)  planejado
+[□□□□□□□□□□] Exceções                       planejado
+```
+
+---
+
+### Práticas de engenharia
+
+| Prática | Como aplico |
+|---------|-------------|
+| **Fundamentos antes de abstrações** | Implemento a lógica do algoritmo antes de usar funções prontas da linguagem. |
+| **Convenções consistentes** | Nomes em `snake_case`, numeração com zero à esquerda e estrutura de pastas previsível. |
+| **Documentação como parte do código** | Todo repositório tem um README com propósito, estrutura e como executar. |
+| **Versionamento contínuo** | Cada entrega é registrada no Git, mantendo um histórico rastreável da evolução. |
+
+---
+
+<div align="center">
+
+**Aberto a conexões com profissionais e estudantes de tecnologia.**
+
+[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-560593415/)
+
+</div>
