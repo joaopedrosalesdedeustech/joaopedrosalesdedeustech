@@ -83,8 +83,5 @@ Conteúdos da disciplina, na ordem em que estão sendo estudados:
 
 ## Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Pedro%20Sales%20de%20Deus-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-560593415/)
 [![GitHub](https://img.shields.io/badge/GitHub-joaopedrosalesdedeustech-181717?style=flat-square&logo=github)](https://github.com/joaopedrosalesdedeustech)
-
-<!-- Para adicionar o LinkedIn, troque SEU-USUARIO e remova os marcadores de comentário:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
--->
