@@ -50,7 +50,7 @@ Neste início de curso, meu foco está nos fundamentos que sustentam qualquer si
 
 ### Projetos
 
-#### [PUC-Minas · Introdução a Algoritmos](https://github.com/joaopedrosalesdedeustech/PUC-Minas)
+#### [puc-minas-introducao-algoritmos](https://github.com/joaopedrosalesdedeustech/puc-minas-introducao-algoritmos)
 
 Repositório acadêmico com as soluções em Python da disciplina de Introdução a Algoritmos, organizado em oito módulos.
 
