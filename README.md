@@ -2,11 +2,12 @@
 
 # João Pedro Sales de Deus
 
-**Software Engineering Student · PUC Minas**
+**Estudante de Engenharia de Software · PUC Minas**
 
 Fundamentos sólidos, código legível e projetos bem documentados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-sales-de-deus-560593415/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaopedrosalesdedeus@gmail.com)
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-PUC%20Minas-003366?style=flat-square)
 ![Localização](https://img.shields.io/badge/Belo%20Horizonte-MG-555555?style=flat-square&logo=googlemaps&logoColor=white)
 
@@ -17,11 +18,11 @@ Fundamentos sólidos, código legível e projetos bem documentados.
 ### `$ whoami`
 
 ```python
-class SoftwareEngineer:
+class EngenheiroDeSoftware:
     def __init__(self):
         self.nome = "João Pedro Sales de Deus"
         self.formacao = "Bacharelado em Engenharia de Software · PUC Minas"
-        self.periodo = "1º semestre · noite"
+        self.periodo = "1º semestre"
         self.localizacao = "Belo Horizonte, MG, Brasil"
         self.linguagem_principal = "Python"
         self.foco_atual = ["Algoritmos", "Estruturas de dados", "Orientação a objetos"]
@@ -67,18 +68,7 @@ Repositório acadêmico com as soluções em Python da disciplina de Introduçã
 
 ### Roadmap técnico
 
-Progresso nos conteúdos da disciplina de Introdução a Algoritmos:
-
-```text
-[■■■■■■■■■■] Listas                         concluído
-[□□□□□□□□□□] Matrizes                       próximo
-[□□□□□□□□□□] Dicionários                    planejado
-[□□□□□□□□□□] Arquivos                       planejado
-[□□□□□□□□□□] Recursividade                  planejado
-[□□□□□□□□□□] Orientação a Objetos (intro)   planejado
-[□□□□□□□□□□] Orientação a Objetos (relac.)  planejado
-[□□□□□□□□□□] Exceções                       planejado
-```
+Disciplina de Introdução a Algoritmos: **1/8 módulos concluídos** (Listas) · próximo: **Matrizes**.
 
 ---
 
